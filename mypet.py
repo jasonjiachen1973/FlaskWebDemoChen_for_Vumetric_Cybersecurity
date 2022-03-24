@@ -37,8 +37,8 @@ def welcome():
     )
 
 
-@app.route("/addemp", methods=['POST'])
-def addnmae():
+@app.route("/result", methods=['POST'])
+def if_tall():
 
     name = request.form['name']
     height = int(request.form['height'])
