@@ -7,4 +7,6 @@ to run locally:
 
 git clone https://github.com/jasonjiachen1973/FlaskWebDemoChen_for_Vumetric_Cybersecurity.git
 
+cd FlaskWebDemoChen_for_Vumetric_Cybersecurity
+
 python mypet.py
